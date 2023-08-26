@@ -1,4 +1,11 @@
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/hee9joon/Awesome-Diffusion-Models) 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
+
 # Biomedical_NLP_Tutorial
+> Created by <br>
+> [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> and [Sara Althubaiti](https://cemse.kaust.edu.sa/cs/people/person/sara-althubaiti).<sup>1</sup> <br>
+> King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
 Biomedical NLP Tutorial: Introduction to NLP, Named Entity Recognition (NER), and Relation Extraction (RE)
 
 # Biomedical NLP Tutorial: Illuminating Insights from Textual Healthscapes 
@@ -7,14 +14,24 @@ Biomedical NLP Tutorial: Introduction to NLP, Named Entity Recognition (NER), an
 
 Embark on an exhilarating journey through the intricate terrain where the realms of Natural Language Processing (NLP) and Biomedical Science converge. Our meticulously crafted tutorial unfurls the enigmatic nuances of NLP, unveils the power of Named Entity Recognition (NER), and uncovers the hidden treasures of Relation Extraction (RE) within the context of the riveting biomedical narrative.
 
-## Table of Contents 📖
+This repository contains code for building a diffusion model to compress the FossilNET dataset and generate imges. This can generally be useful for high quality samples, or for model diversity.
+
+# Building the Diffusion Model steps:
+- Step 1: The forward process ==> Noise scheduler
+- Step 2: Parameterized backward process ==> NN Model [U-Net (autoencoder)](https://amaarora.github.io/2020/09/13/unet.html)
+- step 3: Positional Encoding ==> [timestep encoding](colab.research.google.com/drive/1niCAKS1dJ74_De8Nk_V3_Rx2tpNLadYD#scrollTo=dc8120e5)
 
 
-| Days | Teaching Assistant     |Materials |
-| :---:   |          :---: |      :---: |
-| Day 1   | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)    | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
-| Day 2   | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)      | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
-| Day 3   | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)     |[TP53](https://colab.research.google.com/drive/1R0mCXQwbN84GG05zfuvnn0nUeRj0HEWa?usp=sharing) 
+# Scripts :space_invader:
+
+| Parts | Notebook  | Open in Colab| 
+| :---: | :---:         |     :---:      |  
+| Introduction of NLP | [Notebook 1](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing)|
+| Named Entity Recognition (NER)   | [Notebook 2](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)|
+| Named Entity Normalization (NEN)   | [Notebook 3](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)|
+| Relationship Extraction (RE)   | [Notebook 4](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)|
+
+## List of Contents 📖
 
 1. **Introduction to NLP:**
    Lay the cornerstone by deciphering the art and science of NLP. Traverse the verdant landscapes of tokenization, linguistic preprocessing, and voyage through the lexicon of challenges unique to biomedical linguistics.
@@ -41,11 +58,24 @@ Embark on an exhilarating journey through the intricate terrain where the realms
 - Each chapter holds the keys to enlightenment—notebooks, code snippets, and datasets await your eager curiosity.
 - Engage, tinker, and explore. Let your creativity merge with code as you embark on a transformative learning journey.
 
-
-## Prerequisites 🛠️
-
-- Python 3.x
+## Dependencies 🛠️
+[Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
 - Necessary libraries and frameworks are detailed in each chapter's readme.
 
 ## Useful resources 📚
+
+  * ▬▬▬▬▬▬ Resources and Materials ▬▬▬▬▬▬
 - [Python for Data Analysis by Wes McKinney](https://wesmckinney.com/book/)
+- Github implementation [Denoising Diffusion Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
+- Niels Rogge, Kashif Rasul, [Huggingface notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb#scrollTo=3a159023)
+- [Diffusion model tutorial 2](https://huggingface.co/blog/annotated-diffusion) by Rogge & Rasul and follows the [paper](https://arxiv.org/abs/2006.11239) by He et al.
+- [Awesome Diffusion Models Github]([https://www.youtube.com/watch?v=HoKDTa5jHvg&t=1338s](https://github.com/diff-usion/Awesome-Diffusion-Models))
+- [Outlier Diffusion Model Video: Paper Explanation | Math Explained](https://www.youtube.com/watch?v=HoKDTa5jHvg&t=1338s)  
+- [Positional Embeddings](colab.research.google.com/drive/1niCAKS1dJ74_De8Nk_V3_Rx2tpNLadYD#scrollTo=dc8120e5)
+
+
+* ▬▬▬▬▬▬▬ Papers ▬▬▬▬▬▬▬
+- Papers on Diffusion models ([Dhariwal, Nichol, 2021], [Ho et al., 2020] ect.)
+- [DDPM](https://arxiv.org/pdf/2006.11239.pdf)
+- [DDPM Improved](https://arxiv.org/pdf/2105.05233.pdf)
+  
