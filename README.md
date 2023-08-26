@@ -10,11 +10,6 @@ Embark on an exhilarating journey through the intricate terrain where the realms
 ## Table of Contents 📖
 
 
-# AI_in_Medicine_KAUST_Academy
-
-![A28B85D0-490A-4E79-9086-728A7852A3CD](https://github.com/Sakhaa-Alsaedi/AI_in_Medicine_KAUST_Academy/assets/42935314/5fb68114-a8c7-4429-ad5d-fa4d21adc351)
-
-
 | Days | Teaching Assistant     |Materials |
 | :---:   |          :---: |      :---: |
 | Day 1   | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)    | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
