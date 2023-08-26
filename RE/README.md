@@ -60,6 +60,6 @@ Embark on an exhilarating expedition into the heart of Relation Extraction (RE) 
 
 * ▬▬▬▬▬▬▬ Papers ▬▬▬▬▬▬▬
 - Papers on Diffusion models ([Dhariwal, Nichol, 2021], [Ho et al., 2020] ect.)
-- [DDPM](https://arxiv.org/pdf/2006.11239.pdf)
+- [BioMegatron](https://aclanthology.org/2020.emnlp-main.379.pdf)
 - [DDPM Improved](https://arxiv.org/pdf/2105.05233.pdf)
 
