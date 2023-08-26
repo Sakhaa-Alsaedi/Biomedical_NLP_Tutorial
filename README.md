@@ -1,17 +1,25 @@
 # Biomedical_NLP_Tutorial
 Biomedical NLP Tutorial: Introduction to NLP, Named Entity Recognition (NER), and Relation Extraction (RE)
 
-# Biomedical NLP Tutorial: Illuminating Insights from Textual Healthscapes 🌱
+# Biomedical NLP Tutorial: Illuminating Insights from Textual Healthscapes 
 
-<p align="center">
-  <img src="repository-logo.png" alt="Repository Logo">
-</p>
-
-## Welcome to the Biomedical NLP Tutorial Repository! 📚
+## Welcome to the Biomedical NLP Tutorial Repository!
 
 Embark on an exhilarating journey through the intricate terrain where the realms of Natural Language Processing (NLP) and Biomedical Science converge. Our meticulously crafted tutorial unfurls the enigmatic nuances of NLP, unveils the power of Named Entity Recognition (NER), and uncovers the hidden treasures of Relation Extraction (RE) within the context of the riveting biomedical narrative.
 
 ## Table of Contents 📖
+
+
+# AI_in_Medicine_KAUST_Academy
+
+![A28B85D0-490A-4E79-9086-728A7852A3CD](https://github.com/Sakhaa-Alsaedi/AI_in_Medicine_KAUST_Academy/assets/42935314/5fb68114-a8c7-4429-ad5d-fa4d21adc351)
+
+
+| Days | Teaching Assistant     |Materials |
+| :---:   |          :---: |      :---: |
+| Day 1   | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)    | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
+| Day 2   | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)      | [Day 1 & 2](https://github.com/rhenaog/kacademy_kacst_day12)
+| Day 3   | [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)     |[TP53](https://colab.research.google.com/drive/1R0mCXQwbN84GG05zfuvnn0nUeRj0HEWa?usp=sharing) 
 
 1. **Introduction to NLP:**
    Lay the cornerstone by deciphering the art and science of NLP. Traverse the verdant landscapes of tokenization, linguistic preprocessing, and voyage through the lexicon of challenges unique to biomedical linguistics.
@@ -38,27 +46,11 @@ Embark on an exhilarating journey through the intricate terrain where the realms
 - Each chapter holds the keys to enlightenment—notebooks, code snippets, and datasets await your eager curiosity.
 - Engage, tinker, and explore. Let your creativity merge with code as you embark on a transformative learning journey.
 
-## Contributions Welcome! 🤝
-
-Your insights are the lifeblood of this repository's growth. To join this endeavor, forge your own path:
-1. Fork the repository.
-2. Embellish it with your insights.
-3. Illuminate the path for others with a pull request.
 
 ## Prerequisites 🛠️
 
 - Python 3.x
 - Necessary libraries and frameworks are detailed in each chapter's readme.
 
-## License 📜
-
-This tutorial's wisdom is shared under [license type]. Seek enlightenment within the [LICENSE](link-to-license) scrolls.
-
-## Gratitude 🙏
-
-Our heartfelt gratitude to the NLP and biomedical communities, whose wisdom shapes the contours of this tutorial.
-
-Embark now on a quest to decipher the language of life itself! Contact [your contact information] for any quill-to-paper communications.
-
-[Badges: e.g., "Contributions Welcome", "Python 3.x", "License"]
-
+## Useful resources 📚
+- [Python for Data Analysis by Wes McKinney](https://wesmckinney.com/book/)
