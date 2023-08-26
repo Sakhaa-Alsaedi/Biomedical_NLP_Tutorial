@@ -26,7 +26,7 @@ This repository contains code for building a diffusion model to compress the Fos
 
 | Parts | Notebook  | Open in Colab| 
 | :---: | :---:         |     :---:      |  
-| Introduction of NLP | [Notebook 1](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing)|
+| Introduction of NLP | [Notebook 1](https://github.com/Sakhaa-Alsaedi/Biomedical_NLP_Tutorial/tree/main/Introduction) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing)|
 | Named Entity Recognition (NER)   | [Notebook 2](https://colab.research.google.com/drive/15PXFHU96EjgycSrWhOCD7ffb0lRj91qr?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15PXFHU96EjgycSrWhOCD7ffb0lRj91qr?usp=sharing)|
 | Named Entity Normalization (NEN)   | [Notebook 3](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16dGNDtfYh_eX6LBiBMaYn9ZSRIkBjqD9?usp=sharing)|
 | Relationship Extraction (RE)   | [Notebook 4](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1IF-u1sdWB9ya2FnRs2VbDzDezuq_iKR1?usp=sharing)|
