@@ -4,7 +4,7 @@
 
 # Biomedical_NLP_Tutorial
 > Created by <br>
-> [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> and [Sara Althubaiti](https://cemse.kaust.edu.sa/cs/people/person/sara-althubaiti).<sup>1</sup> <br>
+> [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> <br>
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
 Biomedical NLP Tutorial: Introduction to NLP, Named Entity Recognition (NER), and Relation Extraction (RE)
 
