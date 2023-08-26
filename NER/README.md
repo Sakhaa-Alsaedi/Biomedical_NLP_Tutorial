@@ -50,6 +50,5 @@ Diffusion models are a type of generative model used in machine learning to gene
 
 * ▬▬▬▬▬▬▬ Papers ▬▬▬▬▬▬▬
 - Papers on Diffusion models ([Dhariwal, Nichol, 2021], [Ho et al., 2020] ect.)
-- [DDPM](https://arxiv.org/pdf/2006.11239.pdf)
-- [DDPM Improved](https://arxiv.org/pdf/2105.05233.pdf)
+- [BioTagger-GM](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2649315/pdf/247.S1067502708002491.main.pdf)
 
