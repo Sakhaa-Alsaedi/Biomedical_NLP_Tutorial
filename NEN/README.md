@@ -2,12 +2,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-# Diffusion Model Tutorials
-![diffusion](https://github.com/Sakhaa-Alsaedi/AI_in_Medicine_KAUST_Academy/assets/42935314/81137981-d242-4fe1-9e0d-4bb9fb288741)
 
+# Biomedical NEN Odyssey: Illuminating Entity Normalization 🌌
 
 > Created by <br>
-> [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> and [Sara Althubaiti](https://cemse.kaust.edu.sa/cs/people/person/sara-althubaiti).<sup>1</sup> <br>
+> [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup> <br>
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
 
 This repository contains code for building a diffusion model to compress the FossilNET dataset and generate imges. This can generally be useful for high quality samples, or for model diversity.
@@ -17,8 +16,33 @@ This repository contains code for building a diffusion model to compress the Fos
 
 Diffusion models are a type of generative model used in machine learning to generate data that is similar to the data on which they are trained . They work by adding noise to the available training data and then gradually reducing the noise until the generated data closely resembles the training data. Diffusion models are a rising class of generative models because of their power-generating ability and tractability . They can also improve upon existing generative models, such as Generative Adversarial Networks (GANs), by being less reliant on adversarial training.
 
-![diffusion](https://github.com/Sakhaa-Alsaedi/CS394D/blob/main/45AD5AED-E217-41B4-89D5-2957621ADFBC.jpeg)
 
+## Welcome to the Biomedical NEN Tutorial Repository! 🚀
+
+Embark on an awe-inspiring journey to the heart of entity normalization (EN) within the vibrant realm of biomedical language. Our tutorial is your compass to navigate the cosmos of transforming complex, varied entity mentions into a harmonious symphony of knowledge.
+
+## Table of Contents 📜
+
+1. **Introduction to Entity Normalization:**
+   Lay the foundation by delving into the significance of Entity Normalization in the biomedical landscape. Explore how EN bridges the gap between entity mentions and structured knowledge bases.
+
+2. **Unveiling the EN Process:**
+   Peer behind the curtains to witness the magic of mapping entity mentions to canonical forms. Discover the alchemy of resolving synonyms, acronyms, and aliases to unveil the true essence of entities.
+
+3. **From Text to Knowledge Graphs:**
+   Embark on a voyage of semantic exploration as we transform unstructured text into structured knowledge representations. Marvel at the art of linking entities to domain-specific ontologies.
+
+4. **EN in Action: Case Studies & Applications:**
+   Immerse yourself in the real-world landscapes where Entity Normalization reigns supreme. Walk through captivating case studies, from biomedical literature to electronic health records, and witness the transformational power of EN.
+
+5. **Steering EN: Techniques & Strategies:**
+   Ascend to the next level by mastering advanced techniques for enhancing entity normalization accuracy. Dive into strategies for handling rare entities, handling ambiguity, and exploiting contextual clues.
+
+## How to Navigate the Cosmos 🚀
+
+- Secure your boarding pass with `git clone` to bring the repository's knowledge to your realm.
+- Traverse the celestial chapters using meticulously crafted folders and filenames.
+- Each chapter houses celestial notebooks, cosmic code samples, and astral datasets to fuel your understanding.
 
 
 # Building the Diffusion Model steps:
@@ -26,42 +50,8 @@ Diffusion models are a type of generative model used in machine learning to gene
 - Step 2: Parameterized backward process ==> NN Model [U-Net (autoencoder)](https://amaarora.github.io/2020/09/13/unet.html)
 - step 3: Positional Encoding ==> [timestep encoding](colab.research.google.com/drive/1niCAKS1dJ74_De8Nk_V3_Rx2tpNLadYD#scrollTo=dc8120e5)
 
-## Dataset :shell: (Notebook 1)
-We will be using the FossilNET Image dataset that had been collected and curated by [Matt Hall](https://github.com/kwinkunks) and consists of 3000 colour images at 224x224 resolution, split over 10 classes:
-
-- Ammonites
-- Bivalues
-- Corals
-- Dinosaurs
-- Echinoderms
-- Fishes
-- Forams
-- Gastropods
-- Plants
-- Trilobites
-
-# MNIST-Dataset (Notebook 2)
-Recognizing the Digits from 0-9 using their pixel values as attributes, using Deep Learning Model to Classify the Digits. The original dataset is in a format that is difficult for beginners to use. This dataset uses the work of Joseph Redmon to provide the MNIST dataset in a CSV format. The mnist_train.csv file contains the 60,000 training examples and labels. The mnist_test.csv contains 10,000 test examples and labels. Each row consists of 785 values: the first value is the label (a number from 0 to 9) and the remaining 784 values are the pixel values (a number from 0 to 255).
-
-The dataset consists of two files:
-
-- Mnist_train.csv
-- Mnist_test.csv
-- Mnist_train.csv 
-
-## Getting the data
-- Utilize the `dataloader_fossilnet.py` script in the notebook 1.
-- Use MNIST dataset loader from PyTorch in the notebook 2.
-
 ## Dependencies
 [Google Colab](https://colab.research.google.com) provides all the necessary dependencies for running the code in this repository. You do not need to install any additional packages.
-
-# Scripts :space_invader:
-
-| Notebook  | Open in Colab| 
-| :---:         |     :---:      |  
-| [Notebook 1](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DDsachehj0bE4_y4sCg70NG9PDvTB4zX?usp=sharing)|
-| [Notebook 2](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Y1Vp-X6FoEf-tw7caNyx3_ageSdlQhu_?usp=sharing)|
 
 * ▬▬▬▬▬▬ Resources and Materials ▬▬▬▬▬▬
 
