@@ -2,17 +2,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-# Diffusion Model Tutorials
+# Biomedical NER Masterclass: Deciphering the Genomic Lexicon 🧬
 
 > Created by <br>
 > [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup><br>
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
-
-# Biomedical NER Masterclass: Deciphering the Genomic Lexicon 🧬
-
-<p align="center">
-  <img src="ner-logo.png" alt="NER Logo">
-</p>
 
 ## Welcome to the Biomedical NER Tutorial Repository! 🌟
 
