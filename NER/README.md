@@ -2,9 +2,13 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Made With Love](https://img.shields.io/badge/Made%20With-Love-red.svg)](https://github.com/chetanraj/awesome-github-badges)
 
-# Biomedical NER Masterclass: Deciphering the Genomic Lexicon 🧬
+# Biomedical NER 
 
-> Created by <br>
+> Theoretical part created by <br>
+> [Senay Kafkas](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup>[Sumyyah Toonsi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup><br>
+> King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
+
+> Practical part created by <br>
 > [Sakhaa Alsaedi](https://cemse.kaust.edu.sa/cbrc/people/person/sakhaa-alsaedi)<sup>1</sup><br>
 > King Abdullah University of Science and Technology (KAUST)<sup>1</sup>
 
