@@ -43,13 +43,8 @@ This repository contains code for building a Natural Language Processing models 
 
   * ▬▬▬▬▬▬ Resources and Materials ▬▬▬▬▬▬
 - [Python for Data Analysis by Wes McKinney](https://wesmckinney.com/book/)
-- Github implementation [Denoising Diffusion Pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)
 - Niels Rogge, Kashif Rasul, [Huggingface notebook](https://colab.research.google.com/github/huggingface/notebooks/blob/main/examples/annotated_diffusion.ipynb#scrollTo=3a159023)
 
-
-
 * ▬▬▬▬▬▬▬ Papers ▬▬▬▬▬▬▬
-- Papers on Diffusion models ([Dhariwal, Nichol, 2021], [Ho et al., 2020] ect.)
-- [DDPM](https://arxiv.org/pdf/2006.11239.pdf)
-- [DDPM Improved](https://arxiv.org/pdf/2105.05233.pdf)
+
   
