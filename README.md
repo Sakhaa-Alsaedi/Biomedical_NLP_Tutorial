@@ -14,7 +14,7 @@ This repository contains code for building a Natural Language Processing models 
 
 # Scripts :space_invader:
 
-| Parts | Notebook  | Open in Colab| 
+| Part | Description  | Open in Colab| 
 | :---: | :---:         |     :---:      |  
 | Introduction of NLP | [Notebook 1](https://github.com/Sakhaa-Alsaedi/Biomedical_NLP_Tutorial/tree/main/Introduction) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z9V_FZiwyz9450RgRfDOoHnRMSF883aC?usp=sharing)|
 | Named Entity Recognition (NER)   | [Notebook 2](https://github.com/Sakhaa-Alsaedi/Biomedical_NLP_Tutorial/tree/main/NER)  | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15PXFHU96EjgycSrWhOCD7ffb0lRj91qr?usp=sharing)|
